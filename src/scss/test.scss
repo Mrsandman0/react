@@ -1,0 +1,132 @@
+.conbox{
+   height: 90px;
+}
+.search-box{
+        margin: 25px 0 0 40px;
+        .search-txt {
+        width: 530px;
+        height: 36px;
+        border: 2px solid #00be8f;
+        border-radius: 2px;
+        position: relative;
+        .search-city{
+            width: 119px;
+            height: 32px;
+            line-height: 32px;
+            text-align: center;
+            background-color: #fcfcfc;
+            border-right: 1px solid #e5e5e5;
+            font-size: 12px;
+            color: #666;
+        }
+        .search-inpt{
+            input{
+                display: block;
+                width: 347px;
+                height: 32px;
+                line-height: 32px;
+                text-indent: 15px;
+                border: none;
+            }
+            span{
+                display: block;
+                width: 60px;
+                height: 32px;
+                line-height: 32px;
+                text-align: center;
+                background-color: #00be8f;
+             }
+        }
+    }
+}
+.other-box{
+    position: relative;
+    top: 30px;
+    right: 0;
+    line-height: 28px;
+    span{
+        display: inline-block;
+        line-height: 28px;
+        padding: 0 10px;
+        position: relative;
+        border-right: 1px solid #e8e8e8;
+        color: #888;
+        i{
+            display: inline-block;
+            vertical-align: middle;
+            width: 18px;
+            height: 18px;
+            margin-top: -2px;
+            overflow: hidden;
+            margin-right: 5px;
+        }
+    }
+    span:nth-child(3){
+        border-right:none;
+    }
+}
+.dialog-bd{
+    width: 530px;
+    padding: 22px 31px 17px 31px;
+    background-color: #fff;
+    box-shadow: 0 0 20px rgba(0,0,0,.2);
+    position: relative;
+    color: #666;
+    box-sizing: border-box;
+    margin-top: 10px;
+    position: absolute;
+    z-index: 22;
+    .have-padin{
+        cursor: pointer;
+        margin-bottom: 10px;
+        font-size: 14px;
+        color: #333;
+        text-align: left;
+    }
+    .hot-city{
+        margin-bottom: 10px;
+        overflow: hidden;
+        span{
+            cursor: pointer;
+            display: block;
+            font-size: 13px;
+            float: left;
+            max-width: 42px;
+            height: 25px;
+            line-height: 19px;
+            margin-right: 20px;
+            overflow: hidden;
+        }
+    }
+    .no-padin{
+        cursor: pointer;
+        font-size: 14px;
+        color: #333;
+    }
+    .citylist{
+        li{
+            display: block;
+            padding-left: 27px;
+            overflow: hidden;
+            position: relative;
+            em{
+                position: absolute;
+                top: 0;
+                left: 0;
+                font-size: 14px;
+                font-weight: 700;
+                color: #16c1a0;
+            }
+            span{
+                display: block;
+                float: left;
+                width: 56px;
+                height: 19px;
+                overflow: hidden;
+                margin: 0 8px 15px 0;
+                font-size: 13px;
+                cursor: pointer;
+            }
+        }
+    }
+}

@@ -1,0 +1,2416 @@
+{
+    "ABCDE": {
+        "A": [
+            {
+                "cqCityId": "14",
+                "firstCode": "A",
+                "nameDisplay": "鞍山",
+                "pinyin": "anshan",
+                "provinceName": "辽宁",
+                "tcCityId": "987"
+            },
+            {
+                "cqCityId": "6",
+                "firstCode": "A",
+                "nameDisplay": "安顺",
+                "pinyin": "anshun",
+                "provinceName": "贵州",
+                "tcCityId": "1787"
+            },
+            {
+                "cqCityId": "10",
+                "firstCode": "A",
+                "nameDisplay": "澳门",
+                "pinyin": "aomen",
+                "provinceName": "澳门特别行政区",
+                "tcCityId": "1269"
+            },
+            {
+                "cqCityId": "1023",
+                "firstCode": "A",
+                "nameDisplay": "安庆",
+                "pinyin": "anqing",
+                "provinceName": "安徽",
+                "tcCityId": "490"
+            },
+            {
+                "cqCityId": "84",
+                "firstCode": "A",
+                "nameDisplay": "安康",
+                "pinyin": "ankang",
+                "provinceName": "陕西",
+                "tcCityId": "992"
+            }
+        ],
+        "B": [
+            {
+                "cqCityId": "542",
+                "firstCode": "B",
+                "nameDisplay": "曼谷",
+                "pinyin": "bangkok",
+                "provinceName": "泰国",
+                "tcCityId": "150"
+            },
+            {
+                "cqCityId": "65",
+                "firstCode": "B",
+                "nameDisplay": "保定",
+                "pinyin": "baoding",
+                "provinceName": "河北",
+                "tcCityId": "145"
+            },
+            {
+                "cqCityId": "14",
+                "firstCode": "B",
+                "nameDisplay": "本溪",
+                "pinyin": "benxi",
+                "provinceName": "辽宁",
+                "tcCityId": "987"
+            },
+            {
+                "cqCityId": "6",
+                "firstCode": "B",
+                "nameDisplay": "毕节",
+                "pinyin": "bijie",
+                "provinceName": "贵州",
+                "tcCityId": "1777"
+            },
+            {
+                "cqCityId": "462",
+                "firstCode": "B",
+                "nameDisplay": "白山",
+                "pinyin": "banshan",
+                "provinceName": "吉林",
+                "tcCityId": "240"
+            },
+            {
+                "cqCityId": "1",
+                "firstCode": "B",
+                "nameDisplay": "保山",
+                "pinyin": "baoshan",
+                "provinceName": "云南",
+                "tcCityId": "1267"
+            },
+            {
+                "cqCityId": "3",
+                "firstCode": "B",
+                "nameDisplay": "滨州",
+                "pinyin": "binzhou",
+                "provinceName": "山东",
+                "tcCityId": "1089"
+            },
+            {
+                "cqCityId": "482",
+                "firstCode": "B",
+                "nameDisplay": "包头",
+                "pinyin": "baotou",
+                "provinceName": "内蒙古",
+                "tcCityId": "1844"
+            },
+            {
+                "cqCityId": "84",
+                "firstCode": "B",
+                "nameDisplay": "白银",
+                "pinyin": "baiyin",
+                "provinceName": "甘肃",
+                "tcCityId": "992"
+            },
+            {
+                "cqCityId": "1023",
+                "firstCode": "B",
+                "nameDisplay": "蚌埠",
+                "pinyin": "bengbu",
+                "provinceName": "安徽",
+                "tcCityId": "490"
+            },
+            {
+                "cqCityId": "83",
+                "firstCode": "B",
+                "nameDisplay": "白城",
+                "pinyin": "baicheng",
+                "provinceName": "吉林",
+                "tcCityId": "515"
+            },
+            {
+                "cqCityId": "17",
+                "firstCode": "B",
+                "nameDisplay": "巴中",
+                "pinyin": "bazhong",
+                "provinceName": "四川",
+                "tcCityId": "300"
+            },
+            {
+                "cqCityId": "65",
+                "firstCode": "B",
+                "nameDisplay": "北京",
+                "pinyin": "beijing",
+                "provinceName": "北京",
+                "tcCityId": "145"
+            },
+            {
+                "cqCityId": "22",
+                "firstCode": "B",
+                "nameDisplay": "北海",
+                "pinyin": "beihai",
+                "provinceName": "广西",
+                "tcCityId": "822"
+            },
+            {
+                "cqCityId": "84",
+                "firstCode": "B",
+                "nameDisplay": "宝鸡",
+                "pinyin": "baoji",
+                "provinceName": "陕西",
+                "tcCityId": "992"
+            }
+        ],
+        "C": [
+            {
+                "cqCityId": "1",
+                "firstCode": "C",
+                "nameDisplay": "重庆",
+                "pinyin": "chongqing",
+                "provinceName": "重庆",
+                "tcCityId": "1267"
+            },
+            {
+                "cqCityId": "103",
+                "firstCode": "C",
+                "nameDisplay": "长沙",
+                "pinyin": "changsha",
+                "provinceName": "湖南",
+                "tcCityId": "1199"
+            },
+            {
+                "cqCityId": "462",
+                "firstCode": "C",
+                "nameDisplay": "长春",
+                "pinyin": "changchun",
+                "provinceName": "吉林",
+                "tcCityId": "240"
+            },
+            {
+                "cqCityId": "102",
+                "firstCode": "C",
+                "nameDisplay": "长治",
+                "pinyin": "changzhi",
+                "provinceName": "山西",
+                "tcCityId": "1279"
+            },
+            {
+                "cqCityId": "65",
+                "firstCode": "C",
+                "nameDisplay": "沧州",
+                "pinyin": "cangzhou",
+                "provinceName": "河北",
+                "tcCityId": "145"
+            },
+            {
+                "cqCityId": "14",
+                "firstCode": "C",
+                "nameDisplay": "朝阳",
+                "pinyin": "chaoyang",
+                "provinceName": "辽宁",
+                "tcCityId": "987"
+            },
+            {
+                "cqCityId": "4",
+                "firstCode": "C",
+                "nameDisplay": "滁州",
+                "pinyin": "chuzhou",
+                "provinceName": "安徽",
+                "tcCityId": "821"
+            },
+            {
+                "cqCityId": "1023",
+                "firstCode": "C",
+                "nameDisplay": "巢湖",
+                "pinyin": "chaohu",
+                "provinceName": "安徽",
+                "tcCityId": "490"
+            },
+            {
+                "cqCityId": "17",
+                "firstCode": "C",
+                "nameDisplay": "成都",
+                "pinyin": "chengdu",
+                "provinceName": "四川",
+                "tcCityId": "300"
+            },
+            {
+                "cqCityId": "1283",
+                "firstCode": "C",
+                "nameDisplay": "常州",
+                "pinyin": "changzhou",
+                "provinceName": "江苏",
+                "tcCityId": "1461"
+            },
+            {
+                "cqCityId": "103",
+                "firstCode": "C",
+                "nameDisplay": "常德",
+                "pinyin": "changde",
+                "provinceName": "湖南",
+                "tcCityId": "1199"
+            },
+            {
+                "cqCityId": "65",
+                "firstCode": "C",
+                "nameDisplay": "承德",
+                "pinyin": "chengde",
+                "provinceName": "河北",
+                "tcCityId": "145"
+            }
+        ],
+        "D": [
+            {
+                "cqCityId": "17",
+                "firstCode": "D",
+                "nameDisplay": "达州",
+                "pinyin": "dazhou",
+                "provinceName": "四川",
+                "tcCityId": "300"
+            },
+            {
+                "cqCityId": "582",
+                "firstCode": "D",
+                "nameDisplay": "东京",
+                "pinyin": "dongjing",
+                "provinceName": "秘鲁",
+                "tcCityId": "524"
+            },
+            {
+                "cqCityId": "65",
+                "firstCode": "D",
+                "nameDisplay": "大同",
+                "pinyin": "datong",
+                "provinceName": "山西",
+                "tcCityId": "145"
+            },
+            {
+                "cqCityId": "14",
+                "firstCode": "D",
+                "nameDisplay": "丹东",
+                "pinyin": "dandong",
+                "provinceName": "辽宁",
+                "tcCityId": "987"
+            },
+            {
+                "cqCityId": "10",
+                "firstCode": "D",
+                "nameDisplay": "东莞",
+                "pinyin": "dongguan",
+                "provinceName": "广东",
+                "tcCityId": "211"
+            },
+            {
+                "cqCityId": "582",
+                "firstCode": "D",
+                "nameDisplay": "大阪",
+                "pinyin": "daban",
+                "provinceName": "日本",
+                "tcCityId": "1873"
+            },
+            {
+                "cqCityId": "102",
+                "firstCode": "D",
+                "nameDisplay": "德州",
+                "pinyin": "dezhou",
+                "provinceName": "山东",
+                "tcCityId": "1279"
+            },
+            {
+                "cqCityId": "382",
+                "firstCode": "D",
+                "nameDisplay": "定西",
+                "pinyin": "dinxin",
+                "provinceName": "甘肃",
+                "tcCityId": "2152"
+            },
+            {
+                "cqCityId": "17",
+                "firstCode": "D",
+                "nameDisplay": "都江堰",
+                "pinyin": "dujiangyan",
+                "provinceName": "四川",
+                "tcCityId": "300"
+            },
+            {
+                "cqCityId": "83",
+                "firstCode": "D",
+                "nameDisplay": "大庆",
+                "pinyin": "daqing",
+                "provinceName": "黑龙江",
+                "tcCityId": "515"
+            },
+            {
+                "cqCityId": "3",
+                "firstCode": "D",
+                "nameDisplay": "东营",
+                "pinyin": "dongying",
+                "provinceName": "山东",
+                "tcCityId": "1089"
+            },
+            {
+                "cqCityId": "17",
+                "firstCode": "D",
+                "nameDisplay": "德阳",
+                "pinyin": "deyang",
+                "provinceName": "四川",
+                "tcCityId": "300"
+            },
+            {
+                "cqCityId": "14",
+                "firstCode": "D",
+                "nameDisplay": "大连",
+                "pinyin": "dalian",
+                "provinceName": "辽宁",
+                "tcCityId": "987"
+            }
+        ],
+        "E": [
+            {
+                "cqCityId": "103",
+                "firstCode": "E",
+                "nameDisplay": "恩施",
+                "pinyin": "enshi",
+                "provinceName": "湖北",
+                "tcCityId": "1199"
+            },
+            {
+                "cqCityId": "103",
+                "firstCode": "E",
+                "nameDisplay": "鄂州",
+                "pinyin": "ezhou",
+                "provinceName": "湖北",
+                "tcCityId": "1199"
+            }
+        ]
+    },
+    "FGHIJ": {
+        "F": [
+            {
+                "cqCityId": "14",
+                "firstCode": "F",
+                "nameDisplay": "抚顺",
+                "pinyin": "fushun",
+                "provinceName": "辽宁",
+                "tcCityId": "987"
+            },
+            {
+                "cqCityId": "14",
+                "firstCode": "F",
+                "nameDisplay": "阜新",
+                "pinyin": "fuxin",
+                "provinceName": "辽宁",
+                "tcCityId": "987"
+            },
+            {
+                "cqCityId": "582",
+                "firstCode": "F",
+                "nameDisplay": "福冈",
+                "pinyin": "fugang",
+                "provinceName": "日本",
+                "tcCityId": "420"
+            },
+            {
+                "cqCityId": "104",
+                "firstCode": "F",
+                "nameDisplay": "抚州",
+                "pinyin": "fzhou",
+                "provinceName": "江西",
+                "tcCityId": "807"
+            },
+            {
+                "cqCityId": "10",
+                "firstCode": "F",
+                "nameDisplay": "佛山",
+                "pinyin": "foshan",
+                "provinceName": "广东",
+                "tcCityId": "211"
+            },
+            {
+                "cqCityId": "12",
+                "firstCode": "F",
+                "nameDisplay": "福州",
+                "pinyin": "fuzhou",
+                "provinceName": "福建",
+                "tcCityId": "414"
+            }
+        ],
+        "G": [
+            {
+                "cqCityId": "17",
+                "firstCode": "G",
+                "nameDisplay": "广安",
+                "pinyin": "guangan",
+                "provinceName": "四川",
+                "tcCityId": "300"
+            },
+            {
+                "cqCityId": "582",
+                "firstCode": "G",
+                "nameDisplay": "高松",
+                "pinyin": "gaosong",
+                "provinceName": "日本",
+                "tcCityId": "1059"
+            },
+            {
+                "cqCityId": "61",
+                "firstCode": "G",
+                "nameDisplay": "高雄",
+                "pinyin": "gaoxiong",
+                "provinceName": "台湾",
+                "tcCityId": "626"
+            },
+            {
+                "cqCityId": "582",
+                "firstCode": "G",
+                "nameDisplay": "广岛",
+                "pinyin": "guangdao",
+                "provinceName": "日本",
+                "tcCityId": "496"
+            },
+            {
+                "cqCityId": "84",
+                "firstCode": "G",
+                "nameDisplay": "固原",
+                "pinyin": "guyuan",
+                "provinceName": "宁夏",
+                "tcCityId": "992"
+            },
+            {
+                "cqCityId": "104",
+                "firstCode": "G",
+                "nameDisplay": "赣州",
+                "pinyin": "ganzhou",
+                "provinceName": "江西",
+                "tcCityId": "807"
+            },
+            {
+                "cqCityId": "22",
+                "firstCode": "G",
+                "nameDisplay": "桂林",
+                "pinyin": "guilin",
+                "provinceName": "广西",
+                "tcCityId": "822"
+            },
+            {
+                "cqCityId": "6",
+                "firstCode": "G",
+                "nameDisplay": "贵阳",
+                "pinyin": "guiyang",
+                "provinceName": "贵州",
+                "tcCityId": "1771"
+            },
+            {
+                "cqCityId": "10",
+                "firstCode": "G",
+                "nameDisplay": "广州",
+                "pinyin": "guangzhou",
+                "provinceName": "广东",
+                "tcCityId": "211"
+            },
+            {
+                "cqCityId": "17",
+                "firstCode": "G",
+                "nameDisplay": "广元",
+                "pinyin": "guangyuan",
+                "provinceName": "四川",
+                "tcCityId": "300"
+            }
+        ],
+        "H": [
+            {
+                "cqCityId": "64",
+                "firstCode": "H",
+                "nameDisplay": "鹤壁",
+                "pinyin": "hebi",
+                "provinceName": "河南",
+                "tcCityId": "239"
+            },
+            {
+                "cqCityId": "103",
+                "firstCode": "H",
+                "nameDisplay": "黄冈",
+                "pinyin": "huanggang",
+                "provinceName": "湖北",
+                "tcCityId": "1199"
+            },
+            {
+                "cqCityId": "103",
+                "firstCode": "H",
+                "nameDisplay": "黄石",
+                "pinyin": "huangshi",
+                "provinceName": "湖北",
+                "tcCityId": "1199"
+            },
+            {
+                "cqCityId": "102",
+                "firstCode": "H",
+                "nameDisplay": "邯郸",
+                "pinyin": "handan",
+                "provinceName": "河北",
+                "tcCityId": "1279"
+            },
+            {
+                "cqCityId": "22",
+                "firstCode": "H",
+                "nameDisplay": "河池",
+                "pinyin": "hechi",
+                "provinceName": "广西",
+                "tcCityId": "822"
+            },
+            {
+                "cqCityId": "4",
+                "firstCode": "H",
+                "nameDisplay": "淮安",
+                "pinyin": "huaian",
+                "provinceName": "江苏",
+                "tcCityId": "821"
+            },
+            {
+                "cqCityId": "2",
+                "firstCode": "H",
+                "nameDisplay": "海口",
+                "pinyin": "haikou",
+                "provinceName": "海南",
+                "tcCityId": "1050"
+            },
+            {
+                "cqCityId": "102",
+                "firstCode": "H",
+                "nameDisplay": "衡水",
+                "pinyin": "hengshui",
+                "provinceName": "河北",
+                "tcCityId": "1279"
+            },
+            {
+                "cqCityId": "61",
+                "firstCode": "H",
+                "nameDisplay": "胡志明市",
+                "pinyin": "huzhimingshi",
+                "provinceName": "越南",
+                "tcCityId": "982"
+            },
+            {
+                "cqCityId": "61",
+                "firstCode": "H",
+                "nameDisplay": "花莲",
+                "pinyin": "hualian",
+                "provinceName": "台湾",
+                "tcCityId": "523"
+            },
+            {
+                "cqCityId": "3",
+                "firstCode": "H",
+                "nameDisplay": "菏泽",
+                "pinyin": "heze",
+                "provinceName": "山东",
+                "tcCityId": "1089"
+            },
+            {
+                "cqCityId": "103",
+                "firstCode": "H",
+                "nameDisplay": "怀化",
+                "pinyin": "huaihua",
+                "provinceName": "湖南",
+                "tcCityId": "1199"
+            },
+            {
+                "cqCityId": "482",
+                "firstCode": "H",
+                "nameDisplay": "呼和浩特",
+                "pinyin": "huhehaote",
+                "provinceName": "内蒙古",
+                "tcCityId": "1844"
+            },
+            {
+                "cqCityId": "1023",
+                "firstCode": "H",
+                "nameDisplay": "合肥",
+                "pinyin": "hefei",
+                "provinceName": "安徽",
+                "tcCityId": "490"
+            },
+            {
+                "cqCityId": "1023",
+                "firstCode": "H",
+                "nameDisplay": "黄山",
+                "pinyin": "huangshan",
+                "provinceName": "安徽",
+                "tcCityId": "490"
+            },
+            {
+                "cqCityId": "1323",
+                "firstCode": "H",
+                "nameDisplay": "杭州",
+                "pinyin": "hangzhou",
+                "provinceName": "浙江",
+                "tcCityId": "816"
+            },
+            {
+                "cqCityId": "1323",
+                "firstCode": "H",
+                "nameDisplay": "湖州",
+                "pinyin": "huzhou",
+                "provinceName": "浙江",
+                "tcCityId": "816"
+            },
+            {
+                "cqCityId": "83",
+                "firstCode": "H",
+                "nameDisplay": "哈尔滨",
+                "pinyin": "haerbin",
+                "provinceName": "黑龙江",
+                "tcCityId": "515"
+            },
+            {
+                "cqCityId": "83",
+                "firstCode": "H",
+                "nameDisplay": "虎林",
+                "pinyin": "hulin",
+                "provinceName": "黑龙江",
+                "tcCityId": "515"
+            },
+            {
+                "cqCityId": "83",
+                "firstCode": "H",
+                "nameDisplay": "鹤岗",
+                "pinyin": "hegang",
+                "provinceName": "黑龙江",
+                "tcCityId": "515"
+            },
+            {
+                "cqCityId": "83",
+                "firstCode": "H",
+                "nameDisplay": "黑河",
+                "pinyin": "heihe",
+                "provinceName": "黑龙江",
+                "tcCityId": "515"
+            },
+            {
+                "cqCityId": "10",
+                "firstCode": "H",
+                "nameDisplay": "惠州",
+                "pinyin": "huizhou",
+                "provinceName": "广东",
+                "tcCityId": "211"
+            },
+            {
+                "cqCityId": "10",
+                "firstCode": "H",
+                "nameDisplay": "河源",
+                "pinyin": "heyuan",
+                "provinceName": "广东",
+                "tcCityId": "211"
+            },
+            {
+                "cqCityId": "84",
+                "firstCode": "H",
+                "nameDisplay": "韩城",
+                "pinyin": "hancheng",
+                "provinceName": "陕西",
+                "tcCityId": "1770"
+            },
+            {
+                "cqCityId": "4",
+                "firstCode": "H",
+                "nameDisplay": "华阴",
+                "pinyin": "huayin",
+                "provinceName": "陕西",
+                "tcCityId": "821"
+            },
+            {
+                "cqCityId": "84",
+                "firstCode": "H",
+                "nameDisplay": "汉中",
+                "pinyin": "hanzhong",
+                "provinceName": "陕西",
+                "tcCityId": "992"
+            }
+        ],
+        "J": [
+            {
+                "cqCityId": "64",
+                "firstCode": "J",
+                "nameDisplay": "晋城",
+                "pinyin": "jincheng",
+                "provinceName": "山西",
+                "tcCityId": "239"
+            },
+            {
+                "cqCityId": "64",
+                "firstCode": "J",
+                "nameDisplay": "焦作",
+                "pinyin": "jiaozuo",
+                "provinceName": "河南",
+                "tcCityId": "239"
+            },
+            {
+                "cqCityId": "64",
+                "firstCode": "J",
+                "nameDisplay": "济源",
+                "pinyin": "jiyuan",
+                "provinceName": "河南",
+                "tcCityId": "239"
+            },
+            {
+                "cqCityId": "462",
+                "firstCode": "J",
+                "nameDisplay": "吉林",
+                "pinyin": "jilin",
+                "provinceName": "吉林",
+                "tcCityId": "240"
+            },
+            {
+                "cqCityId": "103",
+                "firstCode": "J",
+                "nameDisplay": "荆门",
+                "pinyin": "jingmen",
+                "provinceName": "湖北",
+                "tcCityId": "1199"
+            },
+            {
+                "cqCityId": "103",
+                "firstCode": "J",
+                "nameDisplay": "荆州",
+                "pinyin": "jingzhou",
+                "provinceName": "湖北",
+                "tcCityId": "1199"
+            },
+            {
+                "cqCityId": "102",
+                "firstCode": "J",
+                "nameDisplay": "晋中",
+                "pinyin": "jinzhong",
+                "provinceName": "山西",
+                "tcCityId": "1279"
+            },
+            {
+                "cqCityId": "10",
+                "firstCode": "J",
+                "nameDisplay": "揭阳",
+                "pinyin": "jieyang",
+                "provinceName": "广东",
+                "tcCityId": "211"
+            },
+            {
+                "cqCityId": "12",
+                "firstCode": "J",
+                "nameDisplay": "晋江",
+                "pinyin": "jinjiang",
+                "provinceName": "福建",
+                "tcCityId": "414"
+            },
+            {
+                "cqCityId": "104",
+                "firstCode": "J",
+                "nameDisplay": "九江",
+                "pinyin": "jiujiang",
+                "provinceName": "江西",
+                "tcCityId": "807"
+            },
+            {
+                "cqCityId": "61",
+                "firstCode": "J",
+                "nameDisplay": "嘉义",
+                "pinyin": "jiayi",
+                "provinceName": "台湾",
+                "tcCityId": "313"
+            },
+            {
+                "cqCityId": "104",
+                "firstCode": "J",
+                "nameDisplay": "景德镇",
+                "pinyin": "jingdezhen",
+                "provinceName": "江西",
+                "tcCityId": "807"
+            },
+            {
+                "cqCityId": "542",
+                "firstCode": "J",
+                "nameDisplay": "甲米",
+                "pinyin": "jiami",
+                "provinceName": "泰国",
+                "tcCityId": "150"
+            },
+            {
+                "cqCityId": "61",
+                "firstCode": "J",
+                "nameDisplay": "金边",
+                "pinyin": "jinbian",
+                "provinceName": "柬埔寨",
+                "tcCityId": "898"
+            },
+            {
+                "cqCityId": "104",
+                "firstCode": "J",
+                "nameDisplay": "吉安",
+                "pinyin": "jian",
+                "provinceName": "江西",
+                "tcCityId": "807"
+            },
+            {
+                "cqCityId": "84",
+                "firstCode": "J",
+                "nameDisplay": "酒泉",
+                "pinyin": "jiuquan",
+                "provinceName": "甘肃",
+                "tcCityId": "992"
+            },
+            {
+                "cqCityId": "3",
+                "firstCode": "J",
+                "nameDisplay": "济南",
+                "pinyin": "jinan",
+                "provinceName": "山东",
+                "tcCityId": "1089"
+            },
+            {
+                "cqCityId": "1323",
+                "firstCode": "J",
+                "nameDisplay": "嘉兴",
+                "pinyin": "jiaxing",
+                "provinceName": "浙江",
+                "tcCityId": "816"
+            },
+            {
+                "cqCityId": "1323",
+                "firstCode": "J",
+                "nameDisplay": "金华",
+                "pinyin": "jinhua",
+                "provinceName": "浙江",
+                "tcCityId": "816"
+            },
+            {
+                "cqCityId": "84",
+                "firstCode": "J",
+                "nameDisplay": "嘉峪关",
+                "pinyin": "jiayuguan",
+                "provinceName": "甘肃",
+                "tcCityId": "992"
+            },
+            {
+                "cqCityId": "83",
+                "firstCode": "J",
+                "nameDisplay": "鸡西",
+                "pinyin": "jixi",
+                "provinceName": "黑龙江",
+                "tcCityId": "515"
+            },
+            {
+                "cqCityId": "83",
+                "firstCode": "J",
+                "nameDisplay": "佳木斯",
+                "pinyin": "jiamusi",
+                "provinceName": "黑龙江",
+                "tcCityId": "515"
+            },
+            {
+                "cqCityId": "10",
+                "firstCode": "J",
+                "nameDisplay": "江门",
+                "pinyin": "jiangmen",
+                "provinceName": "广东",
+                "tcCityId": "211"
+            },
+            {
+                "cqCityId": "14",
+                "firstCode": "J",
+                "nameDisplay": "锦州",
+                "pinyin": "jinzhou",
+                "provinceName": "辽宁",
+                "tcCityId": "987"
+            }
+        ]
+    },
+    "KLMNO": {
+        "K": [
+            {
+                "cqCityId": "64",
+                "firstCode": "K",
+                "nameDisplay": "开封",
+                "pinyin": "kaifeng",
+                "provinceName": "河南",
+                "tcCityId": "239"
+            },
+            {
+                "cqCityId": "6",
+                "firstCode": "K",
+                "nameDisplay": "凯里",
+                "pinyin": "kaili",
+                "provinceName": "贵州",
+                "tcCityId": "1786"
+            },
+            {
+                "cqCityId": "61",
+                "firstCode": "K",
+                "nameDisplay": "昆山",
+                "pinyin": "kunshan",
+                "provinceName": "江苏",
+                "tcCityId": "1437"
+            },
+            {
+                "cqCityId": "1",
+                "firstCode": "K",
+                "nameDisplay": "昆明",
+                "pinyin": "kunming",
+                "provinceName": "云南",
+                "tcCityId": "1267"
+            }
+        ],
+        "L": [
+            {
+                "cqCityId": "64",
+                "firstCode": "L",
+                "nameDisplay": "吕梁",
+                "pinyin": "lvliang",
+                "provinceName": "山西",
+                "tcCityId": "239"
+            },
+            {
+                "cqCityId": "102",
+                "firstCode": "L",
+                "nameDisplay": "临汾",
+                "pinyin": "linfen",
+                "provinceName": "山西",
+                "tcCityId": "1279"
+            },
+            {
+                "cqCityId": "65",
+                "firstCode": "L",
+                "nameDisplay": "廊坊",
+                "pinyin": "langfang",
+                "provinceName": "河北",
+                "tcCityId": "145"
+            },
+            {
+                "cqCityId": "14",
+                "firstCode": "L",
+                "nameDisplay": "辽阳",
+                "pinyin": "liaoyang",
+                "provinceName": "辽宁",
+                "tcCityId": "987"
+            },
+            {
+                "cqCityId": "2",
+                "firstCode": "L",
+                "nameDisplay": "陵水",
+                "pinyin": "lingshui",
+                "provinceName": "海南",
+                "tcCityId": "1050"
+            },
+            {
+                "cqCityId": "3",
+                "firstCode": "L",
+                "nameDisplay": "临沂",
+                "pinyin": "linyi",
+                "provinceName": "山东",
+                "tcCityId": "1089"
+            },
+            {
+                "cqCityId": "22",
+                "firstCode": "L",
+                "nameDisplay": "柳州",
+                "pinyin": "liuzhou",
+                "provinceName": "广西",
+                "tcCityId": "822"
+            },
+            {
+                "cqCityId": "1283",
+                "firstCode": "L",
+                "nameDisplay": "连云港",
+                "pinyin": "lianyungang",
+                "provinceName": "江苏",
+                "tcCityId": "1461"
+            },
+            {
+                "cqCityId": "64",
+                "firstCode": "L",
+                "nameDisplay": "洛阳",
+                "pinyin": "luoyang",
+                "provinceName": "河南",
+                "tcCityId": "239"
+            },
+            {
+                "cqCityId": "84",
+                "firstCode": "L",
+                "nameDisplay": "兰州",
+                "pinyin": "lanzhou",
+                "provinceName": "甘肃",
+                "tcCityId": "992"
+            },
+            {
+                "cqCityId": "1",
+                "firstCode": "L",
+                "nameDisplay": "临沧",
+                "pinyin": "lincang",
+                "provinceName": "云南",
+                "tcCityId": "1267"
+            },
+            {
+                "cqCityId": "3",
+                "firstCode": "L",
+                "nameDisplay": "聊城",
+                "pinyin": "liaocheng",
+                "provinceName": "山东",
+                "tcCityId": "1089"
+            },
+            {
+                "cqCityId": "17",
+                "firstCode": "L",
+                "nameDisplay": "泸州",
+                "pinyin": "luzhu",
+                "provinceName": "四川",
+                "tcCityId": "300"
+            },
+            {
+                "cqCityId": "1323",
+                "firstCode": "L",
+                "nameDisplay": "丽水",
+                "pinyin": "lishui",
+                "provinceName": "浙江",
+                "tcCityId": "816"
+            },
+            {
+                "cqCityId": "462",
+                "firstCode": "L",
+                "nameDisplay": "辽源",
+                "pinyin": "liaoyuan",
+                "provinceName": "吉林",
+                "tcCityId": "240"
+            },
+            {
+                "cqCityId": "12",
+                "firstCode": "L",
+                "nameDisplay": "龙岩",
+                "pinyin": "longyan",
+                "provinceName": "福建",
+                "tcCityId": "414"
+            },
+            {
+                "cqCityId": "17",
+                "firstCode": "L",
+                "nameDisplay": "乐山",
+                "pinyin": "leshan",
+                "provinceName": "四川",
+                "tcCityId": "300"
+            }
+        ],
+        "M": [
+            {
+                "cqCityId": "4",
+                "firstCode": "M",
+                "nameDisplay": "马鞍山",
+                "pinyin": "maanshan",
+                "provinceName": "安徽",
+                "tcCityId": "821"
+            },
+            {
+                "cqCityId": "482",
+                "firstCode": "M",
+                "nameDisplay": "满洲里",
+                "pinyin": "manzhouli",
+                "provinceName": "内蒙古",
+                "tcCityId": "1853"
+            },
+            {
+                "cqCityId": "17",
+                "firstCode": "M",
+                "nameDisplay": "绵阳",
+                "pinyin": "mianyang",
+                "provinceName": "四川",
+                "tcCityId": "300"
+            },
+            {
+                "cqCityId": "582",
+                "firstCode": "M",
+                "nameDisplay": "名古屋",
+                "pinyin": "mingguwu",
+                "provinceName": "日本",
+                "tcCityId": "817"
+            },
+            {
+                "cqCityId": "17",
+                "firstCode": "M",
+                "nameDisplay": "眉山",
+                "pinyin": "meishan",
+                "provinceName": "四川",
+                "tcCityId": "300"
+            },
+            {
+                "cqCityId": "83",
+                "firstCode": "M",
+                "nameDisplay": "牡丹江",
+                "pinyin": "mudanjiang",
+                "provinceName": "黑龙江",
+                "tcCityId": "515"
+            },
+            {
+                "cqCityId": "10",
+                "firstCode": "M",
+                "nameDisplay": "梅州",
+                "pinyin": "meizhou",
+                "provinceName": "广东",
+                "tcCityId": "211"
+            },
+            {
+                "cqCityId": "10",
+                "firstCode": "M",
+                "nameDisplay": "茂名",
+                "pinyin": "maoming",
+                "provinceName": "广东",
+                "tcCityId": "211"
+            }
+        ],
+        "N": [
+            {
+                "cqCityId": "64",
+                "firstCode": "N",
+                "nameDisplay": "南阳",
+                "pinyin": "nanyang",
+                "provinceName": "河南",
+                "tcCityId": "239"
+            },
+            {
+                "cqCityId": "1323",
+                "firstCode": "N",
+                "nameDisplay": "宁波",
+                "pinyin": "ningbo",
+                "provinceName": "浙江",
+                "tcCityId": "816"
+            },
+            {
+                "cqCityId": "1283",
+                "firstCode": "N",
+                "nameDisplay": "南通",
+                "pinyin": "nantong",
+                "provinceName": "江苏",
+                "tcCityId": "1461"
+            },
+            {
+                "cqCityId": "22",
+                "firstCode": "N",
+                "nameDisplay": "南宁",
+                "pinyin": "nanning",
+                "provinceName": "广西",
+                "tcCityId": "822"
+            },
+            {
+                "cqCityId": "4",
+                "firstCode": "N",
+                "nameDisplay": "南京",
+                "pinyin": "nanjing",
+                "provinceName": "江苏",
+                "tcCityId": "821"
+            },
+            {
+                "cqCityId": "104",
+                "firstCode": "N",
+                "nameDisplay": "南昌",
+                "pinyin": "nanchang",
+                "provinceName": "江西",
+                "tcCityId": "807"
+            },
+            {
+                "cqCityId": "12",
+                "firstCode": "N",
+                "nameDisplay": "南平",
+                "pinyin": "nanping",
+                "provinceName": "福建",
+                "tcCityId": "414"
+            },
+            {
+                "cqCityId": "12",
+                "firstCode": "N",
+                "nameDisplay": "宁德",
+                "pinyin": "ningde",
+                "provinceName": "福建",
+                "tcCityId": "414"
+            },
+            {
+                "cqCityId": "17",
+                "firstCode": "N",
+                "nameDisplay": "南充",
+                "pinyin": "nanchong",
+                "provinceName": "四川",
+                "tcCityId": "300"
+            },
+            {
+                "cqCityId": "17",
+                "firstCode": "N",
+                "nameDisplay": "内江",
+                "pinyin": "neijiang",
+                "provinceName": "四川",
+                "tcCityId": "300"
+            }
+        ]
+    },
+    "PQRST": {
+        "P": [
+            {
+                "cqCityId": "64",
+                "firstCode": "P",
+                "nameDisplay": "平顶山",
+                "pinyin": "pingdingshan",
+                "provinceName": "河南",
+                "tcCityId": "239"
+            },
+            {
+                "cqCityId": "64",
+                "firstCode": "P",
+                "nameDisplay": "濮阳",
+                "pinyin": "puyang",
+                "provinceName": "河南",
+                "tcCityId": "239"
+            },
+            {
+                "cqCityId": "61",
+                "firstCode": "P",
+                "nameDisplay": "珀斯",
+                "pinyin": "posi",
+                "provinceName": "澳大利亚",
+                "tcCityId": "1906"
+            },
+            {
+                "cqCityId": "542",
+                "firstCode": "P",
+                "nameDisplay": "普吉",
+                "pinyin": "phuket",
+                "provinceName": "泰国",
+                "tcCityId": "500"
+            },
+            {
+                "cqCityId": "14",
+                "firstCode": "P",
+                "nameDisplay": "盘锦",
+                "pinyin": "panjin",
+                "provinceName": "辽宁",
+                "tcCityId": "987"
+            },
+            {
+                "cqCityId": "382",
+                "firstCode": "P",
+                "nameDisplay": "平凉",
+                "pinyin": "pingling",
+                "provinceName": "甘肃",
+                "tcCityId": "1358"
+            },
+            {
+                "cqCityId": "104",
+                "firstCode": "P",
+                "nameDisplay": "萍乡",
+                "pinyin": "pingxiang",
+                "provinceName": "江西",
+                "tcCityId": "807"
+            },
+            {
+                "cqCityId": "17",
+                "firstCode": "P",
+                "nameDisplay": "攀枝花",
+                "pinyin": "panzhihua",
+                "provinceName": "四川",
+                "tcCityId": "300"
+            },
+            {
+                "cqCityId": "12",
+                "firstCode": "P",
+                "nameDisplay": "莆田",
+                "pinyin": "putian",
+                "provinceName": "福建",
+                "tcCityId": "414"
+            }
+        ],
+        "Q": [
+            {
+                "cqCityId": "103",
+                "firstCode": "Q",
+                "nameDisplay": "潜江",
+                "pinyin": "qianjiang",
+                "provinceName": "湖北",
+                "tcCityId": "1199"
+            },
+            {
+                "cqCityId": "2",
+                "firstCode": "Q",
+                "nameDisplay": "琼海",
+                "pinyin": "qionghai",
+                "provinceName": "海南",
+                "tcCityId": "1050"
+            },
+            {
+                "cqCityId": "12",
+                "firstCode": "Q",
+                "nameDisplay": "泉州",
+                "pinyin": "quanzhou",
+                "provinceName": "福建",
+                "tcCityId": "414"
+            },
+            {
+                "cqCityId": "3",
+                "firstCode": "Q",
+                "nameDisplay": "青岛",
+                "pinyin": "qingdao",
+                "provinceName": "山东",
+                "tcCityId": "1089"
+            },
+            {
+                "cqCityId": "61",
+                "firstCode": "Q",
+                "nameDisplay": "清迈",
+                "pinyin": "qingmai",
+                "provinceName": "泰国",
+                "tcCityId": "277"
+            },
+            {
+                "cqCityId": "84",
+                "firstCode": "Q",
+                "nameDisplay": "庆阳",
+                "pinyin": "qingyang",
+                "provinceName": "甘肃",
+                "tcCityId": "992"
+            },
+            {
+                "cqCityId": "1",
+                "firstCode": "Q",
+                "nameDisplay": "曲靖",
+                "pinyin": "qujing",
+                "provinceName": "云南",
+                "tcCityId": "1267"
+            },
+            {
+                "cqCityId": "1323",
+                "firstCode": "Q",
+                "nameDisplay": "衢州",
+                "pinyin": "quzhou",
+                "provinceName": "浙江",
+                "tcCityId": "816"
+            },
+            {
+                "cqCityId": "83",
+                "firstCode": "Q",
+                "nameDisplay": "齐齐哈尔",
+                "pinyin": "qiqihaer",
+                "provinceName": "黑龙江",
+                "tcCityId": "515"
+            },
+            {
+                "cqCityId": "83",
+                "firstCode": "Q",
+                "nameDisplay": "七台河",
+                "pinyin": "qitaihe",
+                "provinceName": "黑龙江",
+                "tcCityId": "515"
+            },
+            {
+                "cqCityId": "10",
+                "firstCode": "Q",
+                "nameDisplay": "清远",
+                "pinyin": "qingyuan",
+                "provinceName": "广东",
+                "tcCityId": "211"
+            },
+            {
+                "cqCityId": "65",
+                "firstCode": "Q",
+                "nameDisplay": "秦皇岛",
+                "pinyin": "qinhuangdao",
+                "provinceName": "河北",
+                "tcCityId": "145"
+            }
+        ],
+        "R": [
+            {
+                "cqCityId": "3",
+                "firstCode": "R",
+                "nameDisplay": "日照",
+                "pinyin": "rizhao",
+                "provinceName": "山东",
+                "tcCityId": "1089"
+            }
+        ],
+        "S": [
+            {
+                "cqCityId": "64",
+                "firstCode": "S",
+                "nameDisplay": "商丘",
+                "pinyin": "shangqiu",
+                "provinceName": "河南",
+                "tcCityId": "239"
+            },
+            {
+                "cqCityId": "64",
+                "firstCode": "S",
+                "nameDisplay": "三门峡",
+                "pinyin": "sanmenxia",
+                "provinceName": "河南",
+                "tcCityId": "239"
+            },
+            {
+                "cqCityId": "1283",
+                "firstCode": "S",
+                "nameDisplay": "宿迁",
+                "pinyin": "suqian",
+                "provinceName": "江苏",
+                "tcCityId": "1457"
+            },
+            {
+                "cqCityId": "103",
+                "firstCode": "S",
+                "nameDisplay": "十堰",
+                "pinyin": "shiyan",
+                "provinceName": "湖北",
+                "tcCityId": "1199"
+            },
+            {
+                "cqCityId": "103",
+                "firstCode": "S",
+                "nameDisplay": "随州",
+                "pinyin": "suizhou",
+                "provinceName": "湖北",
+                "tcCityId": "1199"
+            },
+            {
+                "cqCityId": "102",
+                "firstCode": "S",
+                "nameDisplay": "朔州",
+                "pinyin": "shouzhou",
+                "provinceName": "山西",
+                "tcCityId": "1279"
+            },
+            {
+                "cqCityId": "102",
+                "firstCode": "S",
+                "nameDisplay": "石家庄",
+                "pinyin": "shijiazhuang",
+                "provinceName": "河北",
+                "tcCityId": "1279"
+            },
+            {
+                "cqCityId": "14",
+                "firstCode": "S",
+                "nameDisplay": "沈阳",
+                "pinyin": "shenyang",
+                "provinceName": "辽宁",
+                "tcCityId": "987"
+            },
+            {
+                "cqCityId": "10",
+                "firstCode": "S",
+                "nameDisplay": "深圳",
+                "pinyin": "shenzhen",
+                "provinceName": "广东",
+                "tcCityId": "211"
+            },
+            {
+                "cqCityId": "10",
+                "firstCode": "S",
+                "nameDisplay": "汕头",
+                "pinyin": "shantou",
+                "provinceName": "广东",
+                "tcCityId": "211"
+            },
+            {
+                "cqCityId": "2",
+                "firstCode": "S",
+                "nameDisplay": "三亚",
+                "pinyin": "sanya",
+                "provinceName": "海南",
+                "tcCityId": "1050"
+            },
+            {
+                "cqCityId": "104",
+                "firstCode": "S",
+                "nameDisplay": "上饶",
+                "pinyin": "shangrao",
+                "provinceName": "江西",
+                "tcCityId": "807"
+            },
+            {
+                "cqCityId": "66",
+                "firstCode": "S",
+                "nameDisplay": "邵阳",
+                "pinyin": "shaoyang",
+                "provinceName": "湖南",
+                "tcCityId": "1600"
+            },
+            {
+                "cqCityId": "61",
+                "firstCode": "S",
+                "nameDisplay": "首尔",
+                "pinyin": "shouer",
+                "provinceName": "韩国",
+                "tcCityId": "1872"
+            },
+            {
+                "cqCityId": "542",
+                "firstCode": "S",
+                "nameDisplay": "苏梅岛",
+                "pinyin": "sumeidao",
+                "provinceName": "泰国",
+                "tcCityId": "1158"
+            },
+            {
+                "cqCityId": "61",
+                "firstCode": "S",
+                "nameDisplay": "沙巴",
+                "pinyin": "shaba",
+                "provinceName": "马来西亚",
+                "tcCityId": "149"
+            },
+            {
+                "cqCityId": "1023",
+                "firstCode": "S",
+                "nameDisplay": "宿州",
+                "pinyin": "suzhou",
+                "provinceName": "安徽",
+                "tcCityId": "490"
+            },
+            {
+                "cqCityId": "1323",
+                "firstCode": "S",
+                "nameDisplay": "绍兴",
+                "pinyin": "shaoxing",
+                "provinceName": "浙江",
+                "tcCityId": "816"
+            },
+            {
+                "cqCityId": "462",
+                "firstCode": "S",
+                "nameDisplay": "四平",
+                "pinyin": "siping",
+                "provinceName": "吉林",
+                "tcCityId": "240"
+            },
+            {
+                "cqCityId": "462",
+                "firstCode": "S",
+                "nameDisplay": "松原",
+                "pinyin": "songyuan",
+                "provinceName": "吉林",
+                "tcCityId": "240"
+            },
+            {
+                "cqCityId": "83",
+                "firstCode": "S",
+                "nameDisplay": "绥芬河",
+                "pinyin": "suifenhe",
+                "provinceName": "黑龙江",
+                "tcCityId": "515"
+            },
+            {
+                "cqCityId": "83",
+                "firstCode": "S",
+                "nameDisplay": "双鸭山",
+                "pinyin": "shuangyashan",
+                "provinceName": "黑龙江",
+                "tcCityId": "515"
+            },
+            {
+                "cqCityId": "83",
+                "firstCode": "S",
+                "nameDisplay": "绥化",
+                "pinyin": "suihua",
+                "provinceName": "黑龙江",
+                "tcCityId": "515"
+            },
+            {
+                "cqCityId": "10",
+                "firstCode": "S",
+                "nameDisplay": "汕尾",
+                "pinyin": "shanwei",
+                "provinceName": "广东",
+                "tcCityId": "211"
+            },
+            {
+                "cqCityId": "10",
+                "firstCode": "S",
+                "nameDisplay": "韶关",
+                "pinyin": "shaoguan",
+                "provinceName": "广东",
+                "tcCityId": "211"
+            },
+            {
+                "cqCityId": "12",
+                "firstCode": "S",
+                "nameDisplay": "三明",
+                "pinyin": "sanming",
+                "provinceName": "福建",
+                "tcCityId": "414"
+            },
+            {
+                "cqCityId": "17",
+                "firstCode": "S",
+                "nameDisplay": "遂宁",
+                "pinyin": "suining",
+                "provinceName": "四川",
+                "tcCityId": "300"
+            },
+            {
+                "cqCityId": "4",
+                "firstCode": "S",
+                "nameDisplay": "苏州",
+                "pinyin": "suzhou",
+                "provinceName": "江苏",
+                "tcCityId": "821"
+            },
+            {
+                "cqCityId": "61",
+                "firstCode": "S",
+                "nameDisplay": "上海",
+                "pinyin": "shanghai",
+                "provinceName": "上海",
+                "tcCityId": "985"
+            },
+            {
+                "cqCityId": "84",
+                "firstCode": "S",
+                "nameDisplay": "商洛",
+                "pinyin": "shangluo",
+                "provinceName": "陕西",
+                "tcCityId": "992"
+            }
+        ],
+        "T": [
+            {
+                "cqCityId": "462",
+                "firstCode": "T",
+                "nameDisplay": "通化",
+                "pinyin": "tonghua",
+                "provinceName": "吉林",
+                "tcCityId": "240"
+            },
+            {
+                "cqCityId": "1283",
+                "firstCode": "T",
+                "nameDisplay": "泰州",
+                "pinyin": "taizhou",
+                "provinceName": "江苏",
+                "tcCityId": "1459"
+            },
+            {
+                "cqCityId": "103",
+                "firstCode": "T",
+                "nameDisplay": "天门",
+                "pinyin": "tianmen",
+                "provinceName": "湖北",
+                "tcCityId": "1199"
+            },
+            {
+                "cqCityId": "65",
+                "firstCode": "T",
+                "nameDisplay": "天津",
+                "pinyin": "tianjin",
+                "provinceName": "天津",
+                "tcCityId": "145"
+            },
+            {
+                "cqCityId": "102",
+                "firstCode": "T",
+                "nameDisplay": "太原",
+                "pinyin": "taiyuan",
+                "provinceName": "山西",
+                "tcCityId": "1279"
+            },
+            {
+                "cqCityId": "65",
+                "firstCode": "T",
+                "nameDisplay": "唐山",
+                "pinyin": "tangshan",
+                "provinceName": "河北",
+                "tcCityId": "145"
+            },
+            {
+                "cqCityId": "482",
+                "firstCode": "T",
+                "nameDisplay": "通辽",
+                "pinyin": "tongliao",
+                "provinceName": "内蒙古",
+                "tcCityId": "1844"
+            },
+            {
+                "cqCityId": "1323",
+                "firstCode": "T",
+                "nameDisplay": "台州",
+                "pinyin": "taizhou",
+                "provinceName": "浙江",
+                "tcCityId": "816"
+            },
+            {
+                "cqCityId": "61",
+                "firstCode": "T",
+                "nameDisplay": "台北",
+                "pinyin": "taibei",
+                "provinceName": "台湾",
+                "tcCityId": "1106"
+            },
+            {
+                "cqCityId": "1323",
+                "firstCode": "T",
+                "nameDisplay": "桐乡",
+                "pinyin": "tongxiang",
+                "provinceName": "浙江",
+                "tcCityId": "1402"
+            },
+            {
+                "cqCityId": "3",
+                "firstCode": "T",
+                "nameDisplay": "泰安",
+                "pinyin": "taian",
+                "provinceName": "山东",
+                "tcCityId": "1089"
+            },
+            {
+                "cqCityId": "84",
+                "firstCode": "T",
+                "nameDisplay": "天水",
+                "pinyin": "tianshui",
+                "provinceName": "甘肃",
+                "tcCityId": "992"
+            },
+            {
+                "cqCityId": "84",
+                "firstCode": "T",
+                "nameDisplay": "铜川",
+                "pinyin": "tongchuan",
+                "provinceName": "陕西",
+                "tcCityId": "992"
+            }
+        ]
+    },
+    "UVWXYZ": {
+        "W": [
+            {
+                "cqCityId": "3",
+                "firstCode": "W",
+                "nameDisplay": "威海",
+                "pinyin": "weihai",
+                "provinceName": "山东",
+                "tcCityId": "1089"
+            },
+            {
+                "cqCityId": "103",
+                "firstCode": "W",
+                "nameDisplay": "武汉",
+                "pinyin": "wuhan",
+                "provinceName": "湖北",
+                "tcCityId": "1199"
+            },
+            {
+                "cqCityId": "84",
+                "firstCode": "W",
+                "nameDisplay": "乌鲁木齐",
+                "pinyin": "wulumuqi",
+                "provinceName": "新疆",
+                "tcCityId": "992"
+            },
+            {
+                "cqCityId": "2",
+                "firstCode": "W",
+                "nameDisplay": "万宁",
+                "pinyin": "wanning",
+                "provinceName": "海南",
+                "tcCityId": "1050"
+            },
+            {
+                "cqCityId": "1323",
+                "firstCode": "W",
+                "nameDisplay": "温州",
+                "pinyin": "wenzhou",
+                "provinceName": "浙江",
+                "tcCityId": "816"
+            },
+            {
+                "cqCityId": "22",
+                "firstCode": "W",
+                "nameDisplay": "梧州",
+                "pinyin": "wuzhou",
+                "provinceName": "广西",
+                "tcCityId": "822"
+            },
+            {
+                "cqCityId": "1283",
+                "firstCode": "W",
+                "nameDisplay": "芜湖",
+                "pinyin": "wuhu",
+                "provinceName": "安徽",
+                "tcCityId": "1461"
+            },
+            {
+                "cqCityId": "482",
+                "firstCode": "W",
+                "nameDisplay": "乌兰浩特",
+                "pinyin": "wulanhaote",
+                "provinceName": "内蒙古",
+                "tcCityId": "1844"
+            },
+            {
+                "cqCityId": "14",
+                "firstCode": "W",
+                "nameDisplay": "瓦房店",
+                "pinyin": "wafangdian",
+                "provinceName": "辽宁",
+                "tcCityId": "987"
+            },
+            {
+                "cqCityId": "4",
+                "firstCode": "W",
+                "nameDisplay": "无锡",
+                "pinyin": "wuxi",
+                "provinceName": "江苏",
+                "tcCityId": "821"
+            },
+            {
+                "cqCityId": "84",
+                "firstCode": "W",
+                "nameDisplay": "渭南",
+                "pinyin": "weinan",
+                "provinceName": "陕西",
+                "tcCityId": "992"
+            }
+        ],
+        "X": [
+            {
+                "cqCityId": "64",
+                "firstCode": "X",
+                "nameDisplay": "新乡",
+                "pinyin": "xinxiang",
+                "provinceName": "河南",
+                "tcCityId": "239"
+            },
+            {
+                "cqCityId": "64",
+                "firstCode": "X",
+                "nameDisplay": "许昌",
+                "pinyin": "xuchang",
+                "provinceName": "河南",
+                "tcCityId": "239"
+            },
+            {
+                "cqCityId": "64",
+                "firstCode": "X",
+                "nameDisplay": "信阳",
+                "pinyin": "xinyang",
+                "provinceName": "河南",
+                "tcCityId": "239"
+            },
+            {
+                "cqCityId": "103",
+                "firstCode": "X",
+                "nameDisplay": "咸宁",
+                "pinyin": "xianning",
+                "provinceName": "湖北",
+                "tcCityId": "1199"
+            },
+            {
+                "cqCityId": "103",
+                "firstCode": "X",
+                "nameDisplay": "孝感",
+                "pinyin": "xiaogan",
+                "provinceName": "湖北",
+                "tcCityId": "1199"
+            },
+            {
+                "cqCityId": "103",
+                "firstCode": "X",
+                "nameDisplay": "仙桃",
+                "pinyin": "xiantao",
+                "provinceName": "湖北",
+                "tcCityId": "1199"
+            },
+            {
+                "cqCityId": "102",
+                "firstCode": "X",
+                "nameDisplay": "忻州",
+                "pinyin": "xinzhou",
+                "provinceName": "山西",
+                "tcCityId": "1279"
+            },
+            {
+                "cqCityId": "102",
+                "firstCode": "X",
+                "nameDisplay": "邢台",
+                "pinyin": "xingtai",
+                "provinceName": "河北",
+                "tcCityId": "1279"
+            },
+            {
+                "cqCityId": "12",
+                "firstCode": "X",
+                "nameDisplay": "厦门",
+                "pinyin": "xiamen",
+                "provinceName": "福建",
+                "tcCityId": "414"
+            },
+            {
+                "cqCityId": "61",
+                "firstCode": "X",
+                "nameDisplay": "悉尼",
+                "pinyin": "xini",
+                "provinceName": "澳大利亚",
+                "tcCityId": "1898"
+            },
+            {
+                "cqCityId": "84",
+                "firstCode": "X",
+                "nameDisplay": "西宁",
+                "pinyin": "xining",
+                "provinceName": "青海",
+                "tcCityId": "992"
+            },
+            {
+                "cqCityId": "61",
+                "firstCode": "X",
+                "nameDisplay": "岘港",
+                "pinyin": "xiangang",
+                "provinceName": "越南",
+                "tcCityId": "1274"
+            },
+            {
+                "cqCityId": "61",
+                "firstCode": "X",
+                "nameDisplay": "暹粒",
+                "pinyin": "xianli",
+                "provinceName": "柬埔寨",
+                "tcCityId": "1273"
+            },
+            {
+                "cqCityId": "61",
+                "firstCode": "X",
+                "nameDisplay": "香港",
+                "pinyin": "xianggang",
+                "provinceName": "香港特别行政区",
+                "tcCityId": "1268"
+            },
+            {
+                "cqCityId": "61",
+                "firstCode": "X",
+                "nameDisplay": "新加坡",
+                "pinyin": "xinjiapo",
+                "provinceName": "新加坡",
+                "tcCityId": "994"
+            },
+            {
+                "cqCityId": "61",
+                "firstCode": "X",
+                "nameDisplay": "新山",
+                "pinyin": "xinshan",
+                "provinceName": "马来西亚",
+                "tcCityId": "586"
+            },
+            {
+                "cqCityId": "8",
+                "firstCode": "X",
+                "nameDisplay": "西双版纳",
+                "pinyin": "xishuangbanna",
+                "provinceName": "云南",
+                "tcCityId": "587"
+            },
+            {
+                "cqCityId": "582",
+                "firstCode": "X",
+                "nameDisplay": "旭川",
+                "pinyin": "xuchuan",
+                "provinceName": "日本",
+                "tcCityId": "40"
+            },
+            {
+                "cqCityId": "4",
+                "firstCode": "X",
+                "nameDisplay": "徐州",
+                "pinyin": "xuzhou",
+                "provinceName": "江苏",
+                "tcCityId": "821"
+            },
+            {
+                "cqCityId": "1023",
+                "firstCode": "X",
+                "nameDisplay": "宣城",
+                "pinyin": "xuancheng",
+                "provinceName": "安徽",
+                "tcCityId": "490"
+            },
+            {
+                "cqCityId": "104",
+                "firstCode": "X",
+                "nameDisplay": "新余",
+                "pinyin": "xinyu",
+                "provinceName": "江西",
+                "tcCityId": "807"
+            },
+            {
+                "cqCityId": "84",
+                "firstCode": "X",
+                "nameDisplay": "咸阳",
+                "pinyin": "xianyang",
+                "provinceName": "陕西",
+                "tcCityId": "992"
+            },
+            {
+                "cqCityId": "84",
+                "firstCode": "X",
+                "nameDisplay": "西安",
+                "pinyin": "xian",
+                "provinceName": "陕西",
+                "tcCityId": "992"
+            },
+            {
+                "cqCityId": "61",
+                "firstCode": "X",
+                "nameDisplay": "怀俄明州",
+                "pinyin": "xini",
+                "provinceName": "怀俄明州",
+                "tcCityId": "1969"
+            }
+        ],
+        "Y": [
+            {
+                "cqCityId": "102",
+                "firstCode": "Y",
+                "nameDisplay": "运城",
+                "pinyin": "yuncheng",
+                "provinceName": "山西",
+                "tcCityId": "1279"
+            },
+            {
+                "cqCityId": "103",
+                "firstCode": "Y",
+                "nameDisplay": "岳阳",
+                "pinyin": "yueyang",
+                "provinceName": "湖南",
+                "tcCityId": "1199"
+            },
+            {
+                "cqCityId": "84",
+                "firstCode": "Y",
+                "nameDisplay": "银川",
+                "pinyin": "yinchuan",
+                "provinceName": "宁夏",
+                "tcCityId": "992"
+            },
+            {
+                "cqCityId": "3",
+                "firstCode": "Y",
+                "nameDisplay": "烟台",
+                "pinyin": "yantai",
+                "provinceName": "山东",
+                "tcCityId": "1089"
+            },
+            {
+                "cqCityId": "103",
+                "firstCode": "Y",
+                "nameDisplay": "宜昌",
+                "pinyin": "yichang",
+                "provinceName": "湖北",
+                "tcCityId": "1199"
+            },
+            {
+                "cqCityId": "102",
+                "firstCode": "Y",
+                "nameDisplay": "阳泉",
+                "pinyin": "yangquan",
+                "provinceName": "山西",
+                "tcCityId": "1279"
+            },
+            {
+                "cqCityId": "14",
+                "firstCode": "Y",
+                "nameDisplay": "营口",
+                "pinyin": "yingkou",
+                "provinceName": "辽宁",
+                "tcCityId": "987"
+            },
+            {
+                "cqCityId": "22",
+                "firstCode": "Y",
+                "nameDisplay": "玉林",
+                "pinyin": "yulin",
+                "provinceName": "广西",
+                "tcCityId": "822"
+            },
+            {
+                "cqCityId": "4",
+                "firstCode": "Y",
+                "nameDisplay": "盐城",
+                "pinyin": "yancheng",
+                "provinceName": "江苏",
+                "tcCityId": "821"
+            },
+            {
+                "cqCityId": "104",
+                "firstCode": "Y",
+                "nameDisplay": "鹰潭",
+                "pinyin": "yingtan",
+                "provinceName": "江西",
+                "tcCityId": "807"
+            },
+            {
+                "cqCityId": "104",
+                "firstCode": "Y",
+                "nameDisplay": "宜春",
+                "pinyin": "yichun",
+                "provinceName": "江西",
+                "tcCityId": "807"
+            },
+            {
+                "cqCityId": "1",
+                "firstCode": "Y",
+                "nameDisplay": "玉溪",
+                "pinyin": "yuxi",
+                "provinceName": "云南",
+                "tcCityId": "1267"
+            },
+            {
+                "cqCityId": "462",
+                "firstCode": "Y",
+                "nameDisplay": "延吉",
+                "pinyin": "yanji",
+                "provinceName": "吉林",
+                "tcCityId": "1681"
+            },
+            {
+                "cqCityId": "1323",
+                "firstCode": "Y",
+                "nameDisplay": "义乌",
+                "pinyin": "yiwu",
+                "provinceName": "浙江",
+                "tcCityId": "1410"
+            },
+            {
+                "cqCityId": "84",
+                "firstCode": "Y",
+                "nameDisplay": "榆林",
+                "pinyin": "yulin",
+                "provinceName": "陕西",
+                "tcCityId": "992"
+            },
+            {
+                "cqCityId": "462",
+                "firstCode": "Y",
+                "nameDisplay": "延边",
+                "pinyin": "yanbian",
+                "provinceName": "吉林",
+                "tcCityId": "240"
+            },
+            {
+                "cqCityId": "83",
+                "firstCode": "Y",
+                "nameDisplay": "伊春",
+                "pinyin": "yichun",
+                "provinceName": "黑龙江",
+                "tcCityId": "515"
+            },
+            {
+                "cqCityId": "17",
+                "firstCode": "Y",
+                "nameDisplay": "雅安",
+                "pinyin": "yaan",
+                "provinceName": "四川",
+                "tcCityId": "300"
+            },
+            {
+                "cqCityId": "17",
+                "firstCode": "Y",
+                "nameDisplay": "宜宾",
+                "pinyin": "yibing",
+                "provinceName": "四川",
+                "tcCityId": "300"
+            },
+            {
+                "cqCityId": "10",
+                "firstCode": "Y",
+                "nameDisplay": "阳江",
+                "pinyin": "yangjiang",
+                "provinceName": "广东",
+                "tcCityId": "211"
+            },
+            {
+                "cqCityId": "1283",
+                "firstCode": "Y",
+                "nameDisplay": "扬州",
+                "pinyin": "yangzhou",
+                "provinceName": "江苏",
+                "tcCityId": "1461"
+            },
+            {
+                "cqCityId": "84",
+                "firstCode": "Y",
+                "nameDisplay": "延安",
+                "pinyin": "yanan",
+                "provinceName": "陕西",
+                "tcCityId": "992"
+            }
+        ],
+        "Z": [
+            {
+                "cqCityId": "64",
+                "firstCode": "Z",
+                "nameDisplay": "郑州",
+                "pinyin": "zhengzhou",
+                "provinceName": "河南",
+                "tcCityId": "239"
+            },
+            {
+                "cqCityId": "64",
+                "firstCode": "Z",
+                "nameDisplay": "驻马店",
+                "pinyin": "zhumadian",
+                "provinceName": "河南",
+                "tcCityId": "239"
+            },
+            {
+                "cqCityId": "64",
+                "firstCode": "Z",
+                "nameDisplay": "周口",
+                "pinyin": "zhoukou",
+                "provinceName": "河南",
+                "tcCityId": "239"
+            },
+            {
+                "cqCityId": "84",
+                "firstCode": "Z",
+                "nameDisplay": "中卫",
+                "pinyin": "zhongwei",
+                "provinceName": "宁夏",
+                "tcCityId": "992"
+            },
+            {
+                "cqCityId": "12",
+                "firstCode": "Z",
+                "nameDisplay": "漳州",
+                "pinyin": "zhangzhou",
+                "provinceName": "福建",
+                "tcCityId": "414"
+            },
+            {
+                "cqCityId": "65",
+                "firstCode": "Z",
+                "nameDisplay": "张家口",
+                "pinyin": "zhangjiakou",
+                "provinceName": "河北",
+                "tcCityId": "145"
+            },
+            {
+                "cqCityId": "1323",
+                "firstCode": "Z",
+                "nameDisplay": "舟山",
+                "pinyin": "zhoushan",
+                "provinceName": "浙江",
+                "tcCityId": "816"
+            },
+            {
+                "cqCityId": "6",
+                "firstCode": "Z",
+                "nameDisplay": "遵义",
+                "pinyin": "zunyi",
+                "provinceName": "贵州",
+                "tcCityId": "1783"
+            },
+            {
+                "cqCityId": "4",
+                "firstCode": "Z",
+                "nameDisplay": "镇江",
+                "pinyin": "zhenjiang",
+                "provinceName": "江苏",
+                "tcCityId": "821"
+            },
+            {
+                "cqCityId": "1",
+                "firstCode": "Z",
+                "nameDisplay": "昭通",
+                "pinyin": "zhaotong",
+                "provinceName": "云南",
+                "tcCityId": "1267"
+            },
+            {
+                "cqCityId": "3",
+                "firstCode": "Z",
+                "nameDisplay": "淄博",
+                "pinyin": "zibo",
+                "provinceName": "山东",
+                "tcCityId": "1089"
+            },
+            {
+                "cqCityId": "582",
+                "firstCode": "Z",
+                "nameDisplay": "札幌",
+                "pinyin": "zhahuang",
+                "provinceName": "日本",
+                "tcCityId": "1874"
+            },
+            {
+                "cqCityId": "66",
+                "firstCode": "Z",
+                "nameDisplay": "张家界",
+                "pinyin": "zhangjiajie",
+                "provinceName": "湖南",
+                "tcCityId": "1593"
+            },
+            {
+                "cqCityId": "84",
+                "firstCode": "Z",
+                "nameDisplay": "张掖",
+                "pinyin": "zhangye",
+                "provinceName": "甘肃",
+                "tcCityId": "992"
+            },
+            {
+                "cqCityId": "10",
+                "firstCode": "Z",
+                "nameDisplay": "中山",
+                "pinyin": "zhongshan",
+                "provinceName": "广东",
+                "tcCityId": "211"
+            },
+            {
+                "cqCityId": "10",
+                "firstCode": "Z",
+                "nameDisplay": "肇庆",
+                "pinyin": "zhaoqing",
+                "provinceName": "广东",
+                "tcCityId": "211"
+            },
+            {
+                "cqCityId": "17",
+                "firstCode": "Z",
+                "nameDisplay": "自贡",
+                "pinyin": "zigong",
+                "provinceName": "四川",
+                "tcCityId": "300"
+            },
+            {
+                "cqCityId": "17",
+                "firstCode": "Z",
+                "nameDisplay": "资阳",
+                "pinyin": "ziyang",
+                "provinceName": "四川",
+                "tcCityId": "300"
+            },
+            {
+                "cqCityId": "10",
+                "firstCode": "Z",
+                "nameDisplay": "珠海",
+                "pinyin": "zhuhai",
+                "provinceName": "广东",
+                "tcCityId": "211"
+            },
+            {
+                "cqCityId": "10",
+                "firstCode": "Z",
+                "nameDisplay": "湛江",
+                "pinyin": "zhanjiang",
+                "provinceName": "广东",
+                "tcCityId": "211"
+            },
+            {
+                "cqCityId": "3",
+                "firstCode": "Z",
+                "nameDisplay": "枣庄",
+                "pinyin": "zaozhuang",
+                "provinceName": "山东",
+                "tcCityId": "1302"
+            }
+        ]
+    }
+}
